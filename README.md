@@ -174,3 +174,11 @@ space reserved for text
 <img src="https://i.imgur.com/1B6sjqt.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
+
+
+<p>
+This concludes the osTicket Help Desk Ticketing System lab</a><br /> 
+</p>
+<p>
+</p>
+<br />

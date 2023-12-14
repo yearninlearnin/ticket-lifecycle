@@ -19,7 +19,7 @@ space reserved for text
 space reserved for text
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/Au2kH3S.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 
@@ -27,7 +27,7 @@ space reserved for text
 space reserved for text
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/6yl8D9U.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 
@@ -35,7 +35,7 @@ space reserved for text
 space reserved for text
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/d0HlOAw.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 
@@ -43,7 +43,7 @@ space reserved for text
 space reserved for text
 </p>
 <p>
-<img src="" height="80%" width="80%" alt="Installation Steps"/>
+<img src="https://i.imgur.com/3AEayhw.png" height="80%" width="80%" alt="Installation Steps"/>
 </p>
 <br />
 

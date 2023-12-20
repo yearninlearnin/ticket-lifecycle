@@ -48,7 +48,7 @@ Here is an overview of the submitted tickets within the administrator's console.
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/nOkfJb2.png" height="80%" width="80%" alt="Installation Steps"/>

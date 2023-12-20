@@ -64,7 +64,7 @@ I assigned Han from the support team to this ticket within the drop-down menu.
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/5l0RF5Y.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -72,7 +72,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/6Txo0pO.png" height="80%" width="80%" alt="Installation Steps"/>

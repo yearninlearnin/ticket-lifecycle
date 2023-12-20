@@ -40,7 +40,7 @@ Here is the portal where I will simulate an end user in the company submitting a
 <br />
 
 <p>
-Here is an overview of the submitted tickets within the administrator's console. Next, I will begin to dispure the tickets to the team and even one to myself. 
+Here is an overview of the submitted tickets within the administrator's console. Next, I will begin to dispure the tickets within the group to be resolved. 
 </p>
 <p>
 <img src="https://i.imgur.com/3AEayhw.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -56,7 +56,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+I assigned Han from the support team to this ticket within the drop-down menu.
 </p>
 <p>
 <img src="https://i.imgur.com/0YPhH35.png" height="80%" width="80%" alt="Installation Steps"/>

@@ -2,13 +2,13 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket: Ticket Lifecycle Examples**UPDATED 12/13/23 DOCUMENTATION IN PROGRESS</h1>
+<h1>osTicket: Ticket Lifecycle Examples**UPDATED 12/20/23 DOCUMENTATION IN PROGRESS</h1>
 </p>
 This lab demonstrates the process of utilizing our ticketing system to create and respond to open tickets .<br />
 
 
 <p>
-space reserved for text
+Here is the portal where I will simulate an end user in the company submitting a request for service. In any of these types of scenarios, it can be anything from a computer monitor not working, someone getting locked out of their account, or a random program not working on their pc.
 </p>
 <p>
 <img src="https://i.imgur.com/tAbqACg.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -16,7 +16,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/Au2kH3S.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -24,7 +24,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/6yl8D9U.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -32,7 +32,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/d0HlOAw.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -40,7 +40,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+Here is an overview of the submitted tickets within the administrator's console. Next, I will begin to dispure the tickets to the team and even one to myself. 
 </p>
 <p>
 <img src="https://i.imgur.com/3AEayhw.png" height="80%" width="80%" alt="Installation Steps"/>

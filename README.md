@@ -8,7 +8,7 @@ This lab demonstrates the process of utilizing our ticketing system to create an
 
 
 <p>
-Here is the portal where I will simulate an end user in the company submitting a request for service. In any of these types of scenarios, it can be anything from a computer monitor not working, someone getting locked out of their account, or a random program not working on their pc.
+Here is the portal where I will simulate an end user in the company submitting a request for service. In any of these types of scenarios, it can be anything from a computer monitor not working, to someone getting locked out of their account, or a random program not working on their computer.
 </p>
 <p>
 <img src="https://i.imgur.com/tAbqACg.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -64,7 +64,7 @@ I assigned Han from the support team to this ticket within the drop-down menu.
 <br />
 
 <p>
-
+I escalated the SLA to SEV-A before assigning it to Han Solo because the severity of the user's issue has a potential critical impact to business. In this company, we aim for a 30 minute to 1-hour window of time to resolve a SEV-A manner. while SEV-B and SEV-C are more standard depending on the issue at hand.
 </p>
 <p>
 <img src="https://i.imgur.com/5l0RF5Y.png" height="80%" width="80%" alt="Installation Steps"/>

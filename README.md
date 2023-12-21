@@ -91,7 +91,7 @@ Now I'm logged into the ticketing portal with one of the support accounts. The t
 space reserved for text
 </p>
 <p>
-<img src="https://i.imgur.com/4sTl7Z8.png" height="80%" width="80%" alt="Installation Steps"/>
+
 </p>
 <br />
 

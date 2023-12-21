@@ -80,7 +80,7 @@ I escalated the SLA to SEV-A before assigning it to Han Solo because the severit
 <br />
 
 <p>
-space reserved for text
+Now I'm logged into the ticketing portal with one of the support accounts. The ticket that I assigned to Han has the elevated emergency prompt, highlighting the enhanced SLA.
 </p>
 <p>
 <img src="https://i.imgur.com/PNpACLH.png" height="80%" width="80%" alt="Installation Steps"/>

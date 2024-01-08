@@ -88,7 +88,7 @@ Now I'm logged into the ticketing portal with one of the support accounts. The t
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 
@@ -96,7 +96,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/DFZOyBw.png" height="80%" width="80%" alt="Installation Steps"/>

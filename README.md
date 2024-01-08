@@ -104,7 +104,7 @@ Now I'm logged into the ticketing portal with one of the support accounts. The t
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/tAgnP7Z.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -112,7 +112,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/HGfhVQX.png" height="80%" width="80%" alt="Installation Steps"/>
@@ -120,7 +120,7 @@ space reserved for text
 <br />
 
 <p>
-space reserved for text
+
 </p>
 <p>
 <img src="https://i.imgur.com/VLqhTcd.png" height="80%" width="80%" alt="Installation Steps"/>
